@@ -8,7 +8,7 @@ const home = () => {
     <div
      className="h-screen bg-cover bg-center "
       style={{
-        backgroundImage: "url('/websiteimages/t7-press-release-2.png')",
+        backgroundImage: "url('/t7-press-release-2.png')",
       }}
     >
       <Navbar/>
