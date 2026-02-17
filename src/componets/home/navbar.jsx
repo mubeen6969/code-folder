@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="flex items-center gap-2">
           <img
             className="h-7.5 w-7.5"
-            src="/websiteimages/logo.png"
+            src="/code-folder/websiteimages/logo.png"
             alt="logo"
           />
           <h3 className="text-2xl font-semibold">triplio</h3>

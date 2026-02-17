@@ -3,22 +3,22 @@ import { MdArrowOutward } from "react-icons/md";
 
 const cardData = [
   {
-    image: '/websiteimages/hero5.jpg',
+    image: '/code-folder/websiteimages/hero5.jpg',
     title: 'Sahara Dawn',
     price: '$55'
   },
   {
-    image: '/websiteimages/hero2.jpg',
+    image: '/code-folder/websiteimages/hero2.jpg',
     title: 'Mountains',
     price: '$60'
   },
   {
-    image: '/websiteimages/hero3.jpg',
+    image: '/code-folder/websiteimages/hero3.jpg',
     title: 'Nature',
     price: '$65'
   },
   {
-    image: '/websiteimages/hero1.jpg',
+    image: '/code-folder/websiteimages/hero1.jpg',
     title: 'Buildings',
     price: '$40'
   }
